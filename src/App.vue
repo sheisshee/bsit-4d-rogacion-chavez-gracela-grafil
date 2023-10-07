@@ -42,7 +42,7 @@
   
   <style scoped>
  
-  body {
+  .body {
     font-family: Arial, sans-serif;
     text-align: center;
     
@@ -56,14 +56,14 @@
     text-transform: uppercase;
     background-color: #E5B299;
     padding: 20px;
+    font-style: comic sans;
   }
 
   .color-form {
     margin: 20px 0;
     text-align: center;
     margin-bottom: 0px;
-    padding: 10px;
-    
+    padding: 10px; 
   }
   
   .color-form input {
