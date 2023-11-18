@@ -27,10 +27,10 @@ const addMessage = (text, sender) => {
 
 <style scoped>
 .user-message {
-  color: blue;
+  color: green;
 }
 
 .bot-message {
-  color: green;
+  color: red;
 }
 </style>
