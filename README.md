@@ -14,4 +14,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 # Activity 4 
 
-![Screenshot (545)](https://github.com/sheisshee/bsit-4d-rogacion-chavez-gracela-grafil/assets/92195916/4f9d4ee7-9d36-4e96-8eec-5bd4d33545c8)
+![Screenshot (546)](https://github.com/sheisshee/bsit-4d-rogacion-chavez-gracela-grafil/assets/92195916/c216af09-3158-438f-b1aa-9148dd342214)
+
