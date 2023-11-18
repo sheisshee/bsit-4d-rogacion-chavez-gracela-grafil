@@ -1,10 +1,10 @@
 <script setup>
 
-  import BaseButton from './components/BaseButton.vue';
-  import BaseList from './components/BaseList.vue';
+  import BaseCondition from './components/BaseCondition.vue';
+  import BaseLoop from './components/BaseLoop.vue';
 </script>
 
 <template>
-  <BaseButton></BaseButton>
-  <BaseList></BaseList>
+ <BaseCondition></BaseCondition>
+ <BaseLoop></BaseLoop>
 </template>
