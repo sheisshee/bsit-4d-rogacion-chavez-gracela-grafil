@@ -3,9 +3,9 @@ import { ref } from 'vue';
 
 // Initial chat messages
 let messages = ref([
-  { text: 'Hello', sender: 'user' },
-  { text: 'Hi there!', sender: 'bot' },
-  { text: 'How are you?', sender: 'bot' },
+  { text: 'Hello?', sender: 'user' },
+  { text: 'Hello World!', sender: 'bot' },
+  { text: 'English?', sender: 'bot' },
 ]);
 
 // Method to add a new message
