@@ -1,5 +1,6 @@
 <script setup>
-let numbers = [0,1,2,3,4]
+import {ref} from 'vue'
+let numbers = ref ([0,1,2,3,4, "string"])
 </script>
 
 <template>
@@ -8,4 +9,5 @@ let numbers = [0,1,2,3,4]
             {{ number }} </li>
         
     </ul>
+    <button @click="numbers.push('Hello')">Click</button>
 </template>
